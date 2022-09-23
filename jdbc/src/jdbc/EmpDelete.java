@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+// this is my comment
 public class EmpDelete {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		
